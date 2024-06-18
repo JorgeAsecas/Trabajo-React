@@ -1,0 +1,21 @@
+[
+      {
+        "id": 1,
+        "name": "Ayudita",
+        "price": 4.99
+
+      },
+      {
+        "id": 2,
+        "name": "Ayuda",
+        "price": 19.99
+
+      },
+      {
+        "id": 3,
+        "name": "Ayudota",
+        "price": 49.99
+
+      }
+
+    ]
